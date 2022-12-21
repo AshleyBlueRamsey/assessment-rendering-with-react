@@ -10,3 +10,5 @@ function Header({imageSrc, name, birthday}) {
         </header>
     );
 }
+
+export default Header;
